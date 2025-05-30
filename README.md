@@ -10,6 +10,12 @@ HTTPX-GUI是对命令行工具[httpx](https://github.com/projectdiscovery/httpx)
 - 保存结果到文件
 - 支持批量URL/主机处理
 - 多种HTTP探测选项
+- ![image](https://github.com/user-attachments/assets/24645879-e6b8-4984-b10e-0bba66a1caee)
+- ![image](https://github.com/user-attachments/assets/058684ce-d8fc-4df4-98fe-f0fa7d93c544)
+![image](https://github.com/user-attachments/assets/e07c964d-c6c0-4557-9041-b55dcab2a7ee)
+![image](https://github.com/user-attachments/assets/cd2fb960-28c8-4c3c-a7f9-8f66fc3968b5)
+![image](https://github.com/user-attachments/assets/bf8426b7-f6c6-432a-9d30-1ce989a7e713)
+![image](https://github.com/user-attachments/assets/d1849321-8818-44f8-9031-da25276bb52e)
 
 ## 安装
 
