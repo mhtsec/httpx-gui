@@ -1,6 +1,6 @@
 # HTTPX-GUI
 
-HTTPX-GUI是对命令行工具[httpx](https://github.com/projectdiscovery/httpx)的图形界面封装，保留了原工具的所有功能，使其更易于使用。
+HTTPX-GUI是对命令行工具[httpx](https://github.com/projectdiscovery/httpx)的图形界面，保留了原工具的所有功能，原理是调用本地命令行的httpx，使其更易于使用。
 
 ## 功能特点
 
