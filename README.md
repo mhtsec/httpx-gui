@@ -21,7 +21,7 @@ HTTPX-GUI是对命令行工具[httpx](https://github.com/projectdiscovery/httpx)
 
 ### 二进制下载
 
-您可以从[Releases页面](https://github.com/projectdiscovery/httpx/releases)下载预编译的二进制文件。
+您可以从Releases页面下载预编译的二进制文件。
 
 ## 使用方法
 
