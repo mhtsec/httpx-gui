@@ -35,6 +35,9 @@ HTTPX-GUI是对命令行工具[httpx](https://github.com/projectdiscovery/httpx)
 ## 依赖
 
 - httpx命令行工具（确保已安装并可在PATH中访问）
+- windows中httpx安装到命令行：
+- ![image](https://github.com/user-attachments/assets/6ddf5ecf-e9d8-49d1-8c6b-214969e183d5)
+
 
 ## 注意事项
 
